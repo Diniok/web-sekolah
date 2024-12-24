@@ -1,0 +1,6 @@
+.jumbotron{
+    background-image: url(gambar/1);
+    background-size: cover;
+    background-position: center center;
+    padding: 350px;
+}
