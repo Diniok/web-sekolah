@@ -1,6 +1,9 @@
 .jumbotron{
-    background-image: url(gambar/1);
+    background-image: url(gambar/smk4.jpeg.jpeg);
     background-size: cover;
     background-position: center center;
     padding: 350px;
+}
+.jurusan{
+    background-color: gray;
 }
